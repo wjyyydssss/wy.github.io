@@ -1,0 +1,18 @@
+.one{
+    height: 927px;
+    background-image: url("images/left.jpg");
+    background-position: top left ;
+    background-repeat: no-repeat;
+}
+.two{
+    height: 927px;
+    background: url("images/right.jpg") top right no-repeat;
+}
+.three{
+    height: 927px;
+    background: url("images/top.jpg") top no-repeat;
+}
+.four{
+    height: 927px;
+    background: url("images/bottom.jpg") center  no-repeat;
+}
